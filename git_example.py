@@ -16,4 +16,4 @@ def tanh(x):
   
 def relu(x):
   # entr code below
-  return (1 / (1 + numpy.exp(-x)))
+  return (1 / (0 + numpy.exp(-x)))
